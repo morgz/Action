@@ -1,7 +1,7 @@
 PODS:
   - Action (1.2.1):
-    - RxCocoa (~> 2.0)
-    - RxSwift (~> 2.0)
+    - RxCocoa (~> 2.5)
+    - RxSwift (~> 2.5)
   - Nimble (4.0.1)
   - Quick (0.9.2)
   - RxBlocking (2.5.0):
@@ -14,16 +14,16 @@ DEPENDENCIES:
   - Action (from `../`)
   - Nimble
   - Quick
-  - RxBlocking (~> 2.1)
-  - RxCocoa (~> 2.1)
-  - RxSwift (~> 2.1)
+  - RxBlocking (~> 2.5)
+  - RxCocoa (~> 2.5)
+  - RxSwift (~> 2.5)
 
 EXTERNAL SOURCES:
   Action:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  Action: b602680262545973293b0fd0aca84d1a49141608
+  Action: ea342170ce8a0404fda25bba75e77371cb6cd7e6
   Nimble: 0f3c8b8b084cda391209c3c5efbb48bedeeb920a
   Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
   RxBlocking: 595d9ab56dde6b00beaa5aba40e95b150d2135f1
